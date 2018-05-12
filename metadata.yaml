@@ -1,0 +1,38 @@
+_repo: On-Foreign-Service--Or-The-Santa-Cruz-Revolution_45914
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, William
+    - Rainey, W.
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 45914-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Jeans, T. T. (Thomas Tendron)
+    alias: Jeans, Thomas Tendron
+    gutenberg_agent_id: '43520'
+    url: http://www.gutenberg.org/2009/agents/43520
+description: ''
+gutenberg_issued: '2014-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'Great Britain. Royal Navy -- Fiction'
+title: On Foreign Service; Or, The Santa Cruz Revolution
+url: http://www.gutenberg.org/ebooks/45914
